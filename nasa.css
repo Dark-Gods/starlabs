@@ -1,0 +1,271 @@
+.container{
+    
+    height: auto;
+    width: 100%;
+    background-color: black;
+    border: solid black 1px;
+}
+nav{
+    height: 50px;
+    text-align: center;
+   
+    background-color: lightgrey;
+    line-height: 50PX;
+    margin: 0 10px 10px 10px;
+}
+nav ul li{
+    display: inline-block;
+    
+    width: 150px;
+    font-size: 20px;
+    height: 30px;
+    line-height: 30px;
+}
+a:hover{
+    background-color: white;
+
+    text-decoration-style: none;
+}
+a:link{
+    text-decoration: none;
+}
+ul li{
+
+    margin: 0 25px 0 25px;
+}
+
+
+
+
+
+
+header{
+    height: 125px;
+    
+    text-align: center;
+    font-size: 50px;
+    line-height: 125px;
+    background-color: black ;
+    color:white;
+
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size-adjust: 50px;
+    
+    
+   
+    
+}
+
+
+.boxa{
+    height: 315px;
+    display: flex;
+    justify-content: space-between;
+    
+    padding: 20px 10px 10px 10px;
+    background-color: darkblue;
+    margin: 0 10px 0 10px;
+    
+    
+}
+#box1{
+    
+    height: 300px;
+    width: 370px;
+    text-align: center;
+    background-color: black;
+    color:white;
+
+    overflow-y: auto;
+    
+}
+#box2{
+    
+    height: 300px;
+    width: 370px;
+    text-align: center;
+    background-color: black;
+    color:white;
+
+    overflow-y: auto;
+}
+#box3{
+    
+    height: 300px;
+    width: 370px;
+    text-align: center;
+    background-color: black;
+    overflow-y: auto;
+    color:white;
+
+}
+#box4{
+    
+    height: 300px;
+    width: 370px;
+    text-align: center;
+    background-color: black;
+    overflow-y: auto;
+    color:white;
+
+}
+footer{
+    text-align: center;
+    font-size: 30px;
+    line-height: 150px;
+    height:150px ;
+    color: white;
+    
+}
+#pic1{
+    position: absolute;
+    bottom: 590px;
+    left: 510px;
+}
+#tk1{
+    overflow-y: auto;
+    font-size: 20px;
+    
+}
+.bx2{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5px 5px 5px;
+}
+.bx3{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5px 5px 5px;
+}
+
+
+
+#tk1{
+    
+}
+#pic2{
+    
+   position: absolute;
+   right: 1210px;
+   bottom: 210px;
+}
+#pic3{
+    position: absolute;
+    left: 430px;
+    bottom: 210px;
+}
+#kt2{
+}
+#it1{
+}
+#pic4{
+    position: absolute;
+    right: 440px;
+}
+#pic5{
+    position: absolute;
+    right: 160px;
+    width: 200px;
+    height: 300px;
+    bottom: 95px;
+   
+   
+}
+#yt2{
+    
+}
+.bx4{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5px 5px 5px;
+}
+.bx5{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5px 5px 5px;
+}
+.iss{
+    text-align: center;
+    
+    height: 300px;
+    padding: 0 0 0px 120px;  
+    margin: 0 0 0 100px; 
+
+}
+#iss:hover{
+    background-color: black;
+}
+.boxb{
+    height: 350px;
+    
+    padding: 30px 0 0 00px; 
+    display: flex; 
+    text-align: center; 
+    display: flex;
+    justify-content: space-between;
+    color:white;
+
+   
+
+}
+#crew{
+    display: flex;
+    padding: 0px 35px 0 140px  ;
+}
+#pic6{
+    width: 100px;
+    text-align: center;
+    
+    padding: 0 0 0 0px;
+    
+    height: 220px;
+    text-align: center;
+    margin: 0 10px 0 -50px ; 
+    position: absolute;
+    right: 1400px;  
+}
+#pic7{
+    position: absolute;
+    bottom: -140px;
+    right: 670px;
+}
+
+#iss11{
+    text-align: center;
+    overflow-y: auto;
+    justify-content: space-between;
+   
+    height: 230px;   
+}
+   
+.iso{
+    text-align: center;
+}
+#boxc{
+    color: white;
+    text-align: center;
+    height: 150px;
+    background-color: lightgray;
+    line-height: 150px;
+    margin: 0 10px 0 10px;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 150PX;
+
+}
+boxc:hover{
+    background-color: cadetblue;
+}
+#bh{
+    text-align: center;
+    
+    height: 300px;
+    padding: 0px 90px 0px 0px;  
+    margin: 0 0 0 0px; 
+    
+    
+}
+
+
+    
